@@ -1,2 +1,2 @@
 # Tutorial Project
-Teaching students at (https://kodiraonica.dev/)[Kodiraonica] how to use Github.
+Teaching students at [Kodiraonica](https://kodiraonica.dev/) how to use Github.
